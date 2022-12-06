@@ -1,1 +1,1 @@
-A script for hello world
+A script for working directory
